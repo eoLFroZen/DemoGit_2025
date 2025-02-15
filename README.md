@@ -4,4 +4,3 @@ This is a demo for basic git commands.
 
 This change is made to produce a conflict
 
-Make some more changes!
